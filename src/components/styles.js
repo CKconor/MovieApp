@@ -1,7 +1,7 @@
 const Default =
  {
    card: {
-       width: '32%',
+       width: '30%',
        margin: '1rem .5rem',
        padding: '1rem .5rem',
        backgroundColor: 'grey',
